@@ -1,0 +1,13 @@
+Flask
+Werkzeug
+
+body {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .logo {
+    background-color: #0D122B;
+    padding: 10px;
+    color: white;
+  }
+  
